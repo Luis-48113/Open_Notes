@@ -38,7 +38,7 @@ Compiling from Source (Linux/macOS)
 
 Clone the repo:
 
-git clone https://github.com/yourusername/open-notes.git
+git clone https://github.com/Luis-48113/Open_Notes?tab=readme-ov-file
 cd open-notes
 
 
